@@ -6,3 +6,4 @@ Ambasadors play roles in:
 - Organize eventss
 - Spreding awarness
 - Helping bulders complite tasks
+Contribute to the community that helps everyone.
