@@ -1,0 +1,4 @@
+এই রিপোজিটরিতে Endless প্রজেক্টের বেসিক ধারণা, ডিটেইলস এবং টেস্ট ফাইলগুলো রয়েছে।
+
+Project: Endless
+Focus: Community, Roles, NFT & GitHub practice
