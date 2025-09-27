@@ -1,0 +1,7 @@
+# Futur Plans of Endless
+
+Endless aims to:
+- Launch 1000 USDT reward system (wrong info)  
+- Suport bulders with fundng and mentrship
+- Strong partenership with Web3 project
+- Give oportunites for ambasadors
