@@ -1,4 +1,4 @@
-এই রিপোজিটরিতে Endless প্রজেক্টের বেসিক ধারণা, ডিটেইলস এবং টেস্ট ফাইলগুলো রয়েছে।
+This repository contains the basic concepts, details, and test files of the Endless project.
 
 Project: Endless
 Focus: Community, Roles, NFT & GitHub practice
